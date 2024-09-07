@@ -1,0 +1,1 @@
+My name is Kirill Rekhov (nickname: [iikrllx](https://github.com/iikrllx)). I'm a software engineer who greatly appreciates and respects the free software movement. I love open source. I am an advanced [Debian](https://www.debian.org/) user and [volunteer](https://www.debian.org/intro/help) (this is my hobby). Thank you for your attention.
