@@ -5,7 +5,6 @@ My name is Kirill Rekhov (nicknames: **krekhovx**, **krekhov**). I'm a software 
 
 I'm currently working on [KoruX Gnu/Linux](https://github.com/KoruX-Gnu-Linux)
 
-GPG Fingerprint:<br/>
-2640 769D FDA1 AAA0 F863  D1AE 5F2C 5905 519C E0A0
+GPG Fingerprint: 2640 769D FDA1 AAA0 F863  D1AE 5F2C 5905 519C E0A0
 
 *Big things have small beginnings.*
