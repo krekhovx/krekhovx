@@ -4,9 +4,6 @@ My name is Kirill Rekhov (nicknames: **krekhovx**, **krekhov**). I'm a software 
 [My Debian Person](https://nm.debian.org/person/krekhov)<br/>
 [My Debian Packages](https://qa.debian.org/developer.php?login=krekhov.dev@gmail.com)
 
-[My Debian Dotfiles](https://github.com/krekhovx/dotfiles-debian)<br/>
-[My Debian-based Linux](https://github.com/KoruX-Gnu-Linux)
-
 I'm currently working on [KoruX Gnu/Linux](https://github.com/KoruX-Gnu-Linux)
 
 GPG Fingerprint: 2640 769D FDA1 AAA0 F863  D1AE 5F2C 5905 519C E0A0
