@@ -6,7 +6,9 @@ My name is Kirill Rekhov (nicknames: **krekhovx**, **krekhov**). I'm a software 
 
 [How can you help Debian?](https://www.debian.org/intro/help.en.html)
 
-I'm currently working on [KoruX Gnu/Linux](https://github.com/KoruX-Gnu-Linux)
+I'm currently working on [KoruX GNU/Linux](https://github.com/KoruX-GNU-Linux)
+
+**Tech interests:** Free Software, Debian GNU/Linux, Release Engineering.
 
 GPG Fingerprint: 2640 769D FDA1 AAA0 F863  D1AE 5F2C 5905 519C E0A0
 
