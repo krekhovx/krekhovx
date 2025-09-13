@@ -6,7 +6,7 @@ My name is Kirill Rekhov (nicknames: **krekhovx**, **krekhov**). I'm a software 
 
 [How can you help Debian?](https://www.debian.org/intro/help.en.html)
 
-I built [KoruX GNU/Linux](https://github.com/KoruX-GNU-Linux), my Debian-based build.
+I built [KoruX GNU/Linux](https://github.com/KoruX-GNU-Linux), my Debian-based distro.
 
 **Tech interests:** Free Software, Open Source, Debian GNU/Linux, Release Engineering.
 
