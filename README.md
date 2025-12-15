@@ -1,6 +1,6 @@
 My name is Kirill Rekhov (nicknames: **krekhovx**, **krekhov**). I'm a software engineer who values the free software movement and loves open source. I'm an advanced [Debian](https://www.debian.org/index.en.html) user and contributor, volunteer, and currently a Debian Maintainer - all as part of my hobbies. I write in C and Bash, have a passion for shell scripting, and prefer minimalist terminals and environments. I'm a fan of Vim and its hotkeys, as well as Xfce.
 
-[My Debian Salsa](https://salsa.debian.org/krekhov)<br/>
+[My Debian GitLab](https://salsa.debian.org/krekhov)<br/>
 [My Debian Person](https://nm.debian.org/person/krekhov)<br/>
 [My Debian Packages](https://qa.debian.org/developer.php?login=krekhov.dev@gmail.com)
 
