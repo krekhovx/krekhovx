@@ -8,7 +8,7 @@ My name is Kirill Rekhov (nicknames: **krekhovx**, **krekhov**). I'm a software 
 
 I built [KoruX GNU/Linux](https://github.com/KoruX-GNU-Linux), my Debian-based distro.
 
-**Tech interests:** Free Software, Open Source, Debian GNU/Linux, Release Engineering.
+**Tech interests:** Free Software, Open Source, Debian GNU/Linux, Release Engineering, QA.
 
 GPG Fingerprint: 2640 769D FDA1 AAA0 F863  D1AE 5F2C 5905 519C E0A0
 
