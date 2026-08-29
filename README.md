@@ -12,6 +12,6 @@ My name is Kirill Rekhov (nicknames: **krekhovx**, **krekhov**). I'm a software 
 
 GPG Fingerprint: 2640 769D FDA1 AAA0 F863  D1AE 5F2C 5905 519C E0A0
 
-*Big things have small beginnings.*
+<u>*Big things have small beginnings.*</u>
 
 <img src="https://komarev.com/ghpvc/?username=krekhovx&label=Profile%20views&color=0e75b6&style=flat" alt="krekhovx"/>
