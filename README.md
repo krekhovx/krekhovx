@@ -1,4 +1,4 @@
-My name is Kirill Rekhov (nicknames: **krekhovx**, **krekhov**). I'm a software engineer who values the free software movement and loves open source. I'm an advanced [Debian](https://www.debian.org/index.en.html) user and contributor, volunteer, and currently a Debian Maintainer - all as part of my hobbies. I use Bash, Python, C and VimScript, love Shell scripting, and prefer minimalist terminals and environments. I'm a fan of Vim and its hotkeys, as well as Xfce.
+My name is **Kirill Rekhov** (nicknames: **krekhovx**, **krekhov**). I'm a software engineer who values the free software movement and loves open source. I'm an advanced [Debian](https://www.debian.org/index.en.html) user and contributor, volunteer, and currently a Debian Maintainer - all as part of my hobbies. I use Bash, Python, C and VimScript, love Shell scripting, and prefer minimalist terminals and environments. I'm a fan of Vim and its hotkeys, as well as Xfce.
 
 [My Debian GitLab](https://salsa.debian.org/krekhov)<br/>
 [My Debian Person](https://nm.debian.org/person/krekhov)<br/>
@@ -12,6 +12,6 @@ My name is Kirill Rekhov (nicknames: **krekhovx**, **krekhov**). I'm a software 
 
 GPG Fingerprint: 2640 769D FDA1 AAA0 F863  D1AE 5F2C 5905 519C E0A0
 
-<u>*Big things have small beginnings.*</u>
+_**Big things have small beginnings.**_
 
 <img src="https://komarev.com/ghpvc/?username=krekhovx&label=Profile%20views&color=0e75b6&style=flat" alt="krekhovx"/>
